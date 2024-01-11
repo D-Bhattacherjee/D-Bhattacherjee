@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Html,Css
 - 💞️ I’m looking to collaborate on ...
 - 📫 bhattacherjeedebojyoti4@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
